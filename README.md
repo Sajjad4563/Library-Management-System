@@ -6,7 +6,9 @@ This is a library management application in Java
 Tips:
 
 •	This application is works with MySQL database.
+
 •	If you are using a VPN connection during executing the application, there might be some errors.
+
 •	First, run the `Library Management System.jar` and then program asks you to enter your MySQL password to be able to connect it.
 •	If program can’t connect to your MySQL successfully, an error message appears.
 •	At the first use, you should select admin mode and select a password for yourself.
