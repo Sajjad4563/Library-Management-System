@@ -15,11 +15,3 @@ Tips:
 •	To be able to log-in in user mode, you should create at least one user in Users section and then use the user ID number in password field to log-in.
 •	Note that `pics` folder and two another .jar files should place besides of `Library Management System.jar` file.
 •	Admin cannot delete a book that is borrowed, and cannot delete a user that has a borrowed book and not returned yet.
-
-•	I am waiting for your valuable feedbacks.
-
-
-Thank you.
-
-Mybeautifulfuture@gmail.com
-Sajjad.HTLO
