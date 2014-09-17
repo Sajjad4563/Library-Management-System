@@ -2,6 +2,7 @@ Library-Management-System
 =========================
 
 This is a library management application in Java
+
 Tips:
 
 •	This application is works with MySQL database.
