@@ -1,3 +1,11 @@
+/**
+* UserDialog.java
+* @author Sajjad HTLO
+*
+* This is a Dialog window to add new users to library. In this class i used some JFrame features to prevent entring invalid input.
+*
+*/
+
 package Project;
 
 import java.awt.*;
