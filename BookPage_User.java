@@ -1,3 +1,12 @@
+/**
+* BookPage_User.java
+* @author Sajjad HTLO
+*
+* This class is for user-enrty books management.
+* User just can see available books and their informations and submit some borrow requests.
+*
+*/
+
 package Project;
 
 import javax.swing.*;
