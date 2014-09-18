@@ -1,3 +1,11 @@
+/**
+* UserPage_Admin.java
+* @author Sajjad HTLO
+*
+* This class is for management of users section in `admin` mode entry.
+*
+*/
+
 package Project;
 
 import javax.swing.*;
