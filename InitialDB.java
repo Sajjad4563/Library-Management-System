@@ -1,3 +1,13 @@
+/**
+* InitialDB.java
+* @author Sajjad HTLO
+*
+* This class is for initial database, such as connect to MySQL DBMS with received password from users,
+* Creates database, And tables.
+*
+*
+*/
+
 package Project;
 
 import java.sql.Connection;
