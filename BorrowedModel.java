@@ -1,3 +1,11 @@
+/**
+* BorrowedModel.java
+* @author Sajjad HTLO
+*
+* This class is to handle all borrow methods. Such as Delete/Insert/Update and Fetch borrowed books into JTable.
+*
+*/
+
 package Project;
 
 import java.sql.Connection;
