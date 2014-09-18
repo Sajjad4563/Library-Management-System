@@ -1,3 +1,12 @@
+/**
+* BorrowedPage.java
+* @author Sajjad HTLO
+*
+* This class caontains a table which showns borrowes events.
+* Actually `which user(s) has been borrowed which book(s)` .
+*
+*/
+
 package Project;
 
 import javax.swing.*;
