@@ -1,3 +1,12 @@
+/**
+* AdminModel.java
+* @author Sajjad HTLO
+*
+* This class handles admin log-in works, such as initial first admin password at first log-in, and checks admin password correctness. 
+*
+*
+*/
+
 package Project;
 
 import java.sql.Connection;
