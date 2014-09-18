@@ -1,3 +1,11 @@
+/**
+* BookDialog.java
+* @author Sajjad HTLO
+*
+* A child of books that have a form to add new book.
+*
+*/
+
 package Project;
 
 import javax.swing.*;
