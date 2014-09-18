@@ -1,3 +1,11 @@
+/**
+* BookModel.java
+* @author Sajjad HTLO
+*
+* A child of books that handles all book methods, such as Insert.Delete,Update, and Fetch data into JTable.
+*
+*/
+
 package Project;
 
 import javax.swing.table.DefaultTableModel;
