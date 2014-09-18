@@ -1,3 +1,12 @@
+
+/**
+* SetMyImage.java
+* @author Sajjad HTLO
+*
+* This is a utility class for displaying an image on a JPanel.
+*
+*/
+
 package Project;
 
 import java.awt.BorderLayout;
