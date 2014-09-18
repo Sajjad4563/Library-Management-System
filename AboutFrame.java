@@ -1,3 +1,12 @@
+/**
+* AboutFrame.java
+* @author Sajjad HTLO
+*
+* This class shows some info about this application.
+*
+*
+*/
+
 package Project;
 
 import javax.swing.JFrame;
