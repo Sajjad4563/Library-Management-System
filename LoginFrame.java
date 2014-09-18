@@ -1,3 +1,10 @@
+/**
+* LoginFrame.java
+* @author Sajjad HTLO
+*
+* This is log-in window that determines two mode of entry, `admin` mode and `user` mode.
+*
+*/
 package Project;
 
 import javax.imageio.ImageIO;
@@ -46,7 +53,6 @@ public class LoginFrame extends javax.swing.JFrame implements ActionListener {
 
     public static void main(String args[]) throws IOException {
         mysqlPassword = JOptionPane.showInputDialog(null, "Enter Your MYSQL Password");
-//        System.out.println("get database name in main method: " + new InitialDB().getDataBaseName());
         new LoginFrame().setVisible(true); // OK
     }
 
