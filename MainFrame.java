@@ -1,3 +1,11 @@
+/**
+* MainFrame.java
+* @author Sajjad HTLO
+*
+* This is main page of application, You can see `Books` and `User` sections and some menus.
+*
+*/
+
 package Project;
 
 import javax.imageio.ImageIO;
