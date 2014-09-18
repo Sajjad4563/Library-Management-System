@@ -1,3 +1,11 @@
+/**
+* UserModel.java
+* @author Sajjad HTLO
+*
+* This class handles all requirement user methods on database.
+*
+*/
+
 package Project;
 
 import javax.swing.table.DefaultTableModel;
