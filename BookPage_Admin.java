@@ -1,3 +1,13 @@
+/**
+* BookPage_Admin.java
+* @author Sajjad HTLO
+*
+* This class is for admin-enrty books management.
+* And perform all books methods in swing layer and calls bookModel.java methods to perform in database layer.
+*
+*
+*/
+
 package Project;
 
 import javax.swing.*;
