@@ -22,3 +22,6 @@ This is a Library Management Application in Java
 •	Note that `pics` folder and two another `.jar` files should placed besides of `Library Management System.jar`.
 
 •	Admin cannot delete a book which is borrowed, and cannot delete a user who has a borrowed book and not returned yet, too.
+
+You can download whole project here:
+http://www.mediafire.com/download/oatl8ua4csfb0fe/Library+Management+System.rar
